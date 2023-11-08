@@ -1,12 +1,15 @@
 
 #Principal{
+    text-align: center;
     padding: 30px;
     background-color: #1b365d
+    
 }
+
 
 h1{
 
-    text-align: center;
+    
     color: white;
     font-size: 3em;
     
@@ -26,16 +29,16 @@ a{
 }
 
 ul{
-    text-align: center;
+    
     list-style: none;
-    margin-left: 60px;
+    margin-left: 0;
     display: flex; 
     
 }
 
 li{
     
-    margin-right: 20px;
+    margin-right: 45px;
 }
 
 
